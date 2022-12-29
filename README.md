@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonatan Badillo</h1>
 <h3 align="center">A passionate Student of Computer Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonatanbadillo&label=Profile%20views&color=0e75b6&style=flat" alt="jonatanbadillo" /> </p>
-
 - 🌱 I’m currently learning **data structure**
 
 - 📫 How to reach me **jonatanbadillo.19@gmail.com**
@@ -13,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jonatan badillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonatan badillo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jonatan-badillo-3a12531a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jonatan-badillo-3a12531a8/" height="30" width="40" /></a>
 <a href="https://fb.com/jhon bt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhon bt" height="30" width="40" /></a>
 </p>
 
