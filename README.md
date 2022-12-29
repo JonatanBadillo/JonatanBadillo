@@ -1,5 +1,9 @@
+![MasterHead](https://user-images.githubusercontent.com/120596087/210011650-604b1e19-b6a8-4088-8559-2db01fa511d4.png)
+
 <h1 align="center">Hi 👋, I'm Jonatan Badillo</h1>
 <h3 align="center">A passionate Student of Computer Science</h3>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🌱 I’m currently learning **data structure**
 
@@ -11,8 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jonatan-badillo-3a12531a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jonatan-badillo-3a12531a8/" height="30" width="40" /></a>
-<a href="https://fb.com/jhon bt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhon bt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
